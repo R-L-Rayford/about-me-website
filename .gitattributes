@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *.avi filter=lfs diff=lfs merge=lfs -text
+=======
+*.avi filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 5e562846770e538a1c97513020df86d3354d6a8d
